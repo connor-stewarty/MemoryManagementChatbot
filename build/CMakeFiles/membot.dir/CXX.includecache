@@ -31,22 +31,26 @@ string
 -
 
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatgui.cpp
-wx/filename.h
--
-wx/colour.h
--
-wx/image.h
--
-string
--
+chatgui.h
+/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatgui.h
 chatbot.h
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatbot.h
 chatlogic.h
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatlogic.h
-chatgui.h
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatgui.h
+memory
+-
+string
+-
+wx/colour.h
+-
+wx/filename.h
+-
+wx/image.h
+-
 
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatgui.h
+memory
+-
 wx/wx.h
 -
 
@@ -82,23 +86,11 @@ string
 chatgui.h
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/chatgui.h
 
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphedge.cpp
-graphnode.h
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphnode.h
-graphedge.h
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphedge.h
-
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphedge.h
 vector
 -
 string
 -
-
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphnode.cpp
-graphedge.h
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphedge.h
-graphnode.h
-/home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphnode.h
 
 /home/connor/Udacity/Unit4/CppND-Memory-Management-Chatbot/src/graphnode.h
 vector
